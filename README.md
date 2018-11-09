@@ -1,6 +1,11 @@
 
 # react-native-select-all-images
 
+### TODO's
+
+- Permissions for Android
+- iOS implementation
+
 ## Getting started
 
 `$ npm install react-native-select-all-images --save`
